@@ -1,2 +1,3 @@
-# CSHARPStudynotes
-c#学习笔记的gitbook记录
+# c#学习笔记
+
+c#7.0核心指南的学习笔记记录
